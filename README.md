@@ -4,13 +4,13 @@
 
 ## Información de la estudiantes
 
-/Claudia X. Castro [22212252]; L22212252@tectijuana.edu.mx
+Claudia X. Castro [22212252]; L22212252@tectijuana.edu.mx
 
-/Yuliana J. Navarrete [21212170]; L21212170@tectijuana.edu.mx
+Yuliana J. Navarrete [21212170]; L21212170@tectijuana.edu.mx
 
-/Daniela Castillo [22212251]; L22212251@tectijuana.edu.mx
+Daniela Castillo [22212251]; L22212251@tectijuana.edu.mx
 
-/Lugo Valenzuela Liliana Fernanda [21212165]; L21212165@tectijuana.edu.mx
+Lugo Valenzuela Liliana Fernanda [21212165]; L21212165@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
