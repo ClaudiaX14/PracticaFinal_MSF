@@ -10,7 +10,7 @@ Yuliana J. Navarrete [21212170]; L21212170@tectijuana.edu.mx
 
 Daniela Castillo [22212251]; L22212251@tectijuana.edu.mx
 
-Lugo Valenzuela Liliana Fernanda [21212165]; L21212165@tectijuana.edu.mx
+Liliana F. Lugo [21212165]; L21212165@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
