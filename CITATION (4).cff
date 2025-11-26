@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: 'lenguaje, m'
+type: software
+authors:
+  - given-names: 'Claudia X. '
+    family-names: Castro
+    email: L22212252@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+  - given-names: 'Yuliana J. '
+    family-names: Navarrete
+    affiliation: TecNM-ITT
+    email: L21212170@tectijuana.edu.mx
+  - given-names: 'Daniela '
+    family-names: Castillo
+    email: L22212251@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+  - given-names: 'Liliana F. '
+    family-names: Lugo
+    affiliation: TecNM-ITT
+    email: L21212165@tectijuana.edu.mx
+repository-code: 'https://github.com/ClaudiaX14/PracticaFinal_MSF'
+keywords:
+  - Musculo
+  - Esqueleto
+  - Controlador PI
+  - Tratamiento
+  - Control
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-25'
