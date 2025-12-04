@@ -76,3 +76,7 @@ Palabras clave: Musculo; Esqueleto; Controlador PI; Tratamiento; Control
 \[1] National Heart, Lung and Blood Institute (NHLBI), “Bronquitis,” NHLBI, 12-ene-2023. [En línea]. Disponible: https://www.nhlbi.nih.gov/es/salud/bronquitis. [Accedido: 25-nov-2025]. 
 
 \[2] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
+
+\[3] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
+
+\[4] N. S. Nise, Control Systems Engineering, 8th ed. Hoboken, New Jersey, USA: John Wiley & Sons, 2020.
