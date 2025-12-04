@@ -35,7 +35,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 3. Calcular el error en estado estacionario y la estabilidad en lazo abierto.
 4. Emular y simular la respuesta del circuito en Simulink/Simscape a la señal impulso unitario.
 5. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema control-caso.
-6. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Spyder/Python con la función de transferencia.
+6. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en con la función de transferencia.
 
 ## Descripción detallada del sistema
 
@@ -59,6 +59,16 @@ una mayor porción de la presión de entrada Ve(t) se disipa antes de llegar a l
 
 
 Palabras clave: Musculo; Esqueleto; Controlador PI; Tratamiento; Control
+
+## Lista de archivos incluidos en el repositorio
+
+1. Cuaderno computacional de MATLAB \[.mlx].
+2. Modelo de Simulink \[.slx].
+3. Archivo de BioRender.
+4. Imagen con los parámetros del controlador.
+5. Imágenes de las simulaciones \[.pdf y .png].
+6. Evidencia del análisis matemático: función de transferencia, error en estado estacionario y estabilidad en lazo abierto.
+7. Ensayo gráfico que permita visualizar el trabajo realizado desde la descripción del sistema, análisis matemático, simulaciones numéricas, diagrama fisiológico.
 
 
 ## Referencias
